@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/joblxs/count.svg)
+
+![joblxs's GitHub stats](https://github-readme-stats.vercel.app/api?username=joblxs&show_icons=true&theme=tokyonight)

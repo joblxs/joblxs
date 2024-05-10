@@ -1,6 +1,18 @@
-### Hi there 👋
+<img align="right" src="https://count.getloli.com/get/@:joblxs?theme=moebooru">
+
+## joblxs <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
+
+
+### Github 状态图
+![joblxs's GitHub stats](https://github-readme-stats.vercel.app/api?username=joblxs&show_icons=true&theme=tokyonight)
+
+### Github 贡献图
+[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joblxs&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
+![Visitor Count](https://profile-counter.glitch.me/joblxs/count.svg)
+
 **joblxs/joblxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Visitor Count](https://profile-counter.glitch.me/joblxs/count.svg)
-
-![joblxs's GitHub stats](https://github-readme-stats.vercel.app/api?username=joblxs&show_icons=true&theme=tokyonight)

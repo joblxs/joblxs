@@ -10,7 +10,7 @@
 <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joblxs&locale=cn&line_height=33&theme=dracula&langs_count=4"/>
 
 ### Github 贡献图
-[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joblxs&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![joblxs's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joblxs&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--

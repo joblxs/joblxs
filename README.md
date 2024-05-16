@@ -3,8 +3,11 @@
 ## joblxs <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
 
+<!--Github 状态图-->
 ### Github 状态图
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=joblxs&locale=cn&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=default"/>
+<img   align="left" src="https://github-readme-stats.vercel.app/api?username=joblxs&locale=cn&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=percentile"/>
+<!--语言-->
+<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joblxs&locale=cn&line_height=33&theme=dracula&langs_count=4"/>
 
 ### Github 贡献图
 [![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joblxs&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)

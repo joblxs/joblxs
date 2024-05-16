@@ -4,7 +4,7 @@
 
 
 ### Github 状态图
-![joblxs's GitHub stats](https://github-readme-stats.vercel.app/api?username=joblxs&show_icons=true&theme=tokyonight)
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=joblxs&locale=cn&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=default"/>
 
 ### Github 贡献图
 [![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joblxs&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
